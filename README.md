@@ -151,7 +151,7 @@ venv\Scripts\activate     # on Windows
 
 **Diya Gijo**
 MSc Data Science | Deep Learning & Generative AI Enthusiast
-📧 [LinkedIn](https://www.linkedin.com/in/diyagijo) | [GitHub](https://github.com/diyagijo)
+📧 [LinkedIn]([https://www.linkedin.com/in/diyagijo](https://linkedin.com/in/diya-gijo-6799a1320)) | [GitHub]([[https://github.com/diyagijo])
 
 ---
 
